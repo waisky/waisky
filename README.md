@@ -1,6 +1,6 @@
-# Hi, I'm Wai Phyo Aung
+### Hi there 👋 I'm Wai Phyo Aung! :]
 
-I'm a Senior Android Developer with extensive experience in building high-quality mobile applications. I'm passionate about writing clean, efficient code and creating seamless user experiences. I also have hands-on experience with cross-platform frameworks like Flutter and React Native. I love learning new technologies and keeping up with the latest trends in mobile development.
+I've been an Android developer since 2018. I'm passionate about writing clean, efficient code and creating seamless user experiences. I also have hands-on experience with cross-platform frameworks like Flutter and React Native. I love learning new technologies and keeping up with the latest trends in mobile development.
 
 ## 🔧 Skills
 
@@ -14,16 +14,9 @@ I'm a Senior Android Developer with extensive experience in building high-qualit
 - **Databases**: Mssql, MySQL, PostgreSQL, MongoDB, SQLite, Realm
 - **Cloud & Backend**: REST APIs, Firebase, AWS
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waisky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=waisky&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## 💻 Currently Learning
-
-- **Kotlin Multiplatform Mobile (KMM)** for cross-platform development
-- **Jetpack Compose** for building modern Android UIs
-- **Flutter Web** for deploying cross-platform apps to the web
-- **Clean Code & Design Patterns** to keep improving my code quality
 
 ## 🌍 Let's Connect
 
